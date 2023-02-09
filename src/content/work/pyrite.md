@@ -1,7 +1,7 @@
 ---
 title: Pyrite
-publishDate: 2021-10-02 00:00:00
-img: /assets/pyrite.png
+publishDate: 2022-2-02 00:00:00
+img: /assets/pyrite.webp
 img_alt: Pyrite Banner
 link: https://pyritebot.netlify.app/
 description: |

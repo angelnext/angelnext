@@ -1,7 +1,7 @@
 ---
 title: Loxt
 publishDate: 2022-3-1 00:00:00
-img: /assets/loxt.png
+img: /assets/loxt.webp
 img_alt: Loxt banner
 link: https://loxt.angelnext.dev/
 description: |
