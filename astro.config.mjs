@@ -3,11 +3,15 @@ import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
 import image from "@astrojs/image";
 import AstroPWA from "@vite-pwa/astro";
+import netlify from "@astrojs/netlify";
 
+// https://astro.build/config
 export default defineConfig({
 	site: "https://angelnext.dev/",
 	integrations: [
-		sitemap(),
+		sitemap({
+			customPages: ["https://angelnext.dev/", "https://angelnext.dev/work"],
+		}),
 		prefetch(),
 		image({
 			serviceEntryPoint: "@astrojs/image/sharp",
@@ -36,4 +40,6 @@ export default defineConfig({
 			},
 		}),
 	],
+	output: "server",
+	adapter: netlify(),
 });
