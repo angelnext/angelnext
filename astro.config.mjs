@@ -14,7 +14,6 @@ export default defineConfig({
 		}),
 		AstroPWA({
 			registerType: "autoUpdate",
-			injectRegister: "script",
 			workbox: {
 				navigateFallback: "/404",
 				globPatterns: ["**/*.{js,css,html,webp,png,svg}"],

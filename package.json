@@ -1,13 +1,13 @@
 {
-	"name": "angelnext-portfolio-2",
+	"name": "angelnext-portfolio",
 	"type": "module",
-	"version": "0.0.1",
+	"private": true,
+	"version": "1.0.0",
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",
 		"build": "astro build",
-		"preview": "astro preview",
-		"astro": "astro"
+		"preview": "astro preview"
 	},
 	"dependencies": {
 		"@astrojs/image": "^0.14.1",
