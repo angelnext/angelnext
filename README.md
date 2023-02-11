@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://app.daily.dev/AngelNext">
-    <img align="right" src="https://api.daily.dev/devcards/519e2bdada0c4edcbc37733dcde5e0e0.png?r=14j" width="400" alt="Angel's Dev Card"/>
+    <img width="256" align="right" src="https://api.daily.dev/devcards/519e2bdada0c4edcbc37733dcde5e0e0.png?r=14j" width="400" alt="Angel's Dev Card"/>
    </a>
 </div>
 
@@ -17,4 +17,4 @@
 
 I am a Full Stack Developer that loves open source!
 
-<img align="left" src="/github-metrics.svg" alt="Metrics" width="400"/>
+![Metrics](/github-metrics.svg)
