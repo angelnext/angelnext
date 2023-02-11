@@ -8,8 +8,12 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/AngelNext">
-    <img width="256" align="right" src="https://api.daily.dev/devcards/519e2bdada0c4edcbc37733dcde5e0e0.png?r=14j" width="400" alt="Angel's Dev Card"/>
+  <a href="https://app.daily.dev/DailyDevTips">
+     <img 
+        width="256" 
+        align="right"
+				src="/devcard.svg" width="400" alt="AngelNext's Dev Card"
+			/>
    </a>
 </div>
 
