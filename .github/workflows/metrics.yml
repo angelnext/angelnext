@@ -17,5 +17,3 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
