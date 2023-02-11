@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm [AngelNext](https://angelnext.dev/) 👋
 
 <div align="left">
   <a href="https://twitter.com/AngelNext409">
@@ -13,10 +13,11 @@
    </a>
 </div>
 
-## I am [AngelNext](https://angelnext.dev/)
+<hr>
 
-- Open Source Lover
-- 
+![Metrics](/github-metrics.svg)
 
-![Metrics](https://raw.githubusercontent.com/AngelNext/AngelNext/github-metrics/github-metrics.svg)
+<hr>
+<br>
 
+![banner](https://user-images.githubusercontent.com/79442303/218271750-5bd61252-ecf9-4f9f-9764-9e26291ce48f.png)
