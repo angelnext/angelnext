@@ -15,9 +15,4 @@
 
 <hr>
 
-![Metrics](/github-metrics.svg)
-
-<hr>
-<br>
-
-![banner](https://user-images.githubusercontent.com/79442303/218271750-5bd61252-ecf9-4f9f-9764-9e26291ce48f.png)
+<img align="left" src="/github-metrics.svg" alt="Metrics"/>
