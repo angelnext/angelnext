@@ -10,9 +10,9 @@
 
   <a href="https://app.daily.dev/DailyDevTips">
      <img 
-        width="256" 
-        align="right"
-				src="/devcard.svg" width="400" alt="AngelNext's Dev Card"
+      	width="256" 
+      	align="right"
+				src="/devcard.svg" alt="AngelNext's Dev Card"
 			/>
    </a>
 </div>
@@ -21,4 +21,4 @@
 
 I am a Full Stack Developer that loves open source!
 
-![Metrics](/github-metrics.svg)
+<img width="400" alt="Metrics" src="/github-metrics.svg"/>
