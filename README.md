@@ -8,7 +8,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/DailyDevTips">
+  <a href="https://app.daily.dev/AngelNext">
      <img 
       	width="256" 
       	align="right"
