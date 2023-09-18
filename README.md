@@ -1,24 +1,18 @@
-# Hi there, I'm [AngelNext](https://angelnext.dev/) 👋
+# 👋 Hi, I'm [Angel](https://angelnext.dev)
 
-<div align="left">
-  <a href="https://twitter.com/AngelNext409">
-    <img
-      src="https://img.shields.io/twitter/follow/AngelNext409?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
+📘 Blog: https://angelnext.dev/blog<br>
+📫 Contact Me By Email: [contact@angelnext.dev](mailto:contact@angelnext.dev)<br>
 
-  <a href="https://app.daily.dev/AngelNext">
-     <img 
-      	width="256" 
-      	align="right"
-				src="/devcard.svg" alt="AngelNext's Dev Card"
-			/>
-   </a>
-</div>
+### 📊 GitHub Stats:
+---
+![](https://github-readme-stats.vercel.app/api?username=angelnext&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=angelnext&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelnext&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr>
+### 🏆 GitHub Trophies:
+---
+![](https://github-profile-trophy.vercel.app/?username=angelnext&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I am a Full Stack Developer that loves open source!
-
-<img width="400" alt="Metrics" src="/github-metrics.svg"/>
+### 🔝 Top Contributed Repo:
+---
+![](https://github-contributor-stats.vercel.app/api?username=angelnext&limit=5&theme=dark&combine_all_yearly_contributions=true)
